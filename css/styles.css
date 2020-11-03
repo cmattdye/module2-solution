@@ -46,16 +46,16 @@ h1 {
   }  
   /********* Region positioning text align margins and style **********/
   .chicken{
-    background-color:#009999;         
-    color: white;
+    background-color:#e38dc3;      
+    color: black;
     }
    .beef{
-    background-color:#3333ff;
+    background-color:#cf3b21;
     color: white;  
    }
    .sushi{
-    background-color:#993366;
-    color: white;   
+    background-color:#f5f2cb;
+    color: black;   
    }
 /********** Large devices only **********/
 @media (min-width: 992px) {  
